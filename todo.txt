@@ -1,0 +1,68 @@
+Count Number of Nice Subarrays
+Replace the Substring for Balanced String
+Max Consecutive Ones III
+Binary Subarrays With Sum
+Subarrays with K Different Integers
+Fruit Into Baskets
+Shortest Subarray with Sum at Least K
+Minimum Size Subarray Sum
+
+
+
+
+
+
+C#, .net in tutorialspoint with project
+
+system design basics,fundamental scenarios, cheat sheet
+top google questions from leetcode
+
+google interview guide
+common interview questions
+how does upi work
+MySql
+
+cc internship questions
+=======================
+storage,networking
+projects
+
+
+trouble shooting
+
+
+
+
+https://github.com/samarth-p/College-ERP
+
+
+
+
+sentiment bot
+=============
+https://github.com/akash-joshi/sentiment-bot
+
+
+2.
+
+https://github.com/akash-joshi/sentiment-bot
+
+
+3.
+https://github.com/akash-joshi/check-if-email-exists
+
+
+
+
+Resume projects
+=================
+
+https://github.com/ayush9304
+
+
+
+Deep Learning projects
+======================
+https://github.com/Aayaam-AI/Deep-Learning-Specialization
+
+
